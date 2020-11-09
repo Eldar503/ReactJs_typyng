@@ -1,5 +1,6 @@
 import search from '../assets/search.svg';
 import phone from '../assets/phone.svg';
+import './styles.scss';
 
 const Header = () => {
   return (
