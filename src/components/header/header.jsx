@@ -12,7 +12,7 @@ const Header = () => {
             <img src={search} alt='search' />
           </div>
 					<div className="header__logo">
-						<a href="" className="logo__link">
+						<a href="#" className="logo__link">
 							Shoply
 						</a>
 					</div>
