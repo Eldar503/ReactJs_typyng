@@ -1,3 +1,6 @@
+import search from '../assets/search.svg';
+import phone from '../assets/phone.svg';
+
 
 const Header = () => {
     return (
@@ -5,7 +8,8 @@ const Header = () => {
             <div className="container">
                 <div className="header__top"></div>
                 <div>
-                    <img src="" alt=""/>
+                    <img src={search} alt=""/>
+                    <img src={phone} alt=""/>
                 </div>
                 <div className="header__bottom"></div>
                 <nav className="header__nav nav">
