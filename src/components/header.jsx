@@ -4,6 +4,9 @@ const Header = () => {
         <header>
             <div className="container">
                 <div className="header__top"></div>
+                <div>
+                    <img src="" alt=""/>
+                </div>
                 <div className="header__bottom"></div>
                 <nav className="header__nav nav">
                     <ul className="nav__menu">
